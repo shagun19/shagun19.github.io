@@ -39,7 +39,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: linear-gradient(to right top, #294b80, #24699b, #2787b2, #3aa6c6, #59c5d6);
+    background: linear-gradient(to right top, #294b80, #24699b, #2787b2, #3aa6c6, #59c5d6);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
