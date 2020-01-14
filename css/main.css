@@ -78,21 +78,3 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
-#boxes{
-    content: "";
-    display: table;
-    clear: both;
-}
-div{
-    float:left;
-    height:470px;
-    width:23%;
-    padding:0 10px;
-}
-#column1{
-    width:30%;
-}
-#column2{
-    background-color:#a0e9ed;
-    width:70%;
-}
