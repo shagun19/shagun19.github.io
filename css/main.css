@@ -39,9 +39,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: linear-gradient(to right, rgba(241,247,248,1) 0%, rgba(216,228,233,1) 37%, rgba(223,244,251,1) 64%, rgba(223,244,251,1) 100%);
+    background-image: linear-gradient(to right top, #294b80, #24699b, #2787b2, #3aa6c6, #59c5d6);
 }
-background: -o-linear-gradient(left, rgba(241,247,248,1) 0%, rgba(216,228,233,1) 37%, rgba(223,244,251,1) 64%, rgba(223,244,251,1) 100%);
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
