@@ -6,7 +6,9 @@
 	font-family: 'entypo', sans-serif;
 }
 body {
-  background: #e6e6e6;
+      margin: 60px auto;
+      width: 70%;
+      background: linear-gradient(to left bottom, #dcdfe5, #cedeee, #b9def4, #9ee0f5, #81e1f0);
 }
 #social-sidebar {
 	left: 0;
