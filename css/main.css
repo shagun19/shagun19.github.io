@@ -39,7 +39,9 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background: -o-linear-gradient(left, rgba(241,247,248,1) 0%, rgba(216,228,233,1) 37%, rgba(223,244,251,1) 64%, rgba(223,244,251,1) 100%);
 }
+background: -o-linear-gradient(left, rgba(241,247,248,1) 0%, rgba(216,228,233,1) 37%, rgba(223,244,251,1) 64%, rgba(223,244,251,1) 100%);
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
