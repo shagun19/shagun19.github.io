@@ -84,10 +84,10 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
-.column1 {
+.hovereffect {
   float: left;
   width: 23%;
-  padding: 5px;
+  padding: 0px;
   overflow: hidden;
   position: relative;
   text-align: center;
