@@ -84,8 +84,10 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
-div.row {
-  display: flex;
+div.row:after {
+    content: "";
+    display: table;
+    clear: both;
 }
 div.column1 {
   flex: 30%;
