@@ -90,6 +90,7 @@ div.row:after {
     clear: both;
 }
 div.column1 {
+  width: 200px;
   flex: 30%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
