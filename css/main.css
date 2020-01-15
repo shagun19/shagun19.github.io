@@ -87,14 +87,13 @@ ul.posts li {
 .column1 {
   float: left;
   width: 25%;
-  padding: 0px;
+  padding: 5px;
 }
 
 .column2 {
   float: right;
   width: 70%;
-  padding: 0px;
-  background: linear-gradient(to right top, #162b4a, #1b3760, #204377, #25508e, #2c5da6);
+  padding: 5px;
 }
 
 /* Clear floats after the columns */
