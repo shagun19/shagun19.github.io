@@ -84,19 +84,23 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
-div.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-div.column1 {
-  width: 200px;
-  flex: 30%;
+.column {
+  float: left;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
-div.column2 {
-  flex: 70%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+
+.left, .right {
+  width: 25%;
+}
+
+.middle {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
