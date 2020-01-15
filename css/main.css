@@ -87,13 +87,13 @@ ul.posts li {
 .column1 {
   float: left;
   width: 15%;
-  padding: 5px;
+  padding: 0px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .column2 {
   float: right;
-  width: 85%;
+  width: 80%;
   padding: 0px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
