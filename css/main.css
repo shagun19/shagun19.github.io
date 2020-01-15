@@ -38,7 +38,7 @@ p {
 p.test{
     color: #003366;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
-    font-size: 18px;
+    font-size: 16px;
     line-height: 26px;
     margin: 0;
 }
@@ -93,7 +93,7 @@ ul.posts li {
 
 .column2 {
   float: right;
-  width: 90%;
+  width: 85%;
   padding: 0px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
