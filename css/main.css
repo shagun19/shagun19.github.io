@@ -93,8 +93,8 @@ ul.posts li {
 
 .column2 {
   float: left;
-  width: 60%;
-  padding: 5px;
+  width: 90%;
+  padding: 0px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
