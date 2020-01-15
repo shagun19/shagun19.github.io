@@ -84,3 +84,13 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
+div.column1 {
+  flex: 30%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+div.column2 {
+  flex: 70%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
