@@ -84,22 +84,4 @@ ul.posts li {
 .hover12 figure:hover img {
 	opacity: .5;
 }
-.column {
-  float: left;
-  padding: 5px;
-}
 
-.left{
-  width: 20%;
-}
-
-.right {
-  width: 70%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
