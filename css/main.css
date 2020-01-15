@@ -90,12 +90,12 @@ ul.posts li {
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
-.left, .right {
+.left{
   width: 25%;
 }
 
-.middle {
-  width: 20%;
+.right {
+  width: 50%;
 }
 
 /* Clear floats after the columns */
