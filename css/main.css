@@ -87,7 +87,6 @@ ul.posts li {
 .column {
   float: left;
   padding: 5px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 .left{
