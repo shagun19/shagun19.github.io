@@ -24,6 +24,12 @@ h1 {
     font-size: 3em;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
 }
+
+h1.test {
+    font-size: 3em;
+    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    margin-top: 0px;
+}
 p {
     font-size: 1.0em;
     line-height: 1.4em;
