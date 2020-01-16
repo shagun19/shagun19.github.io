@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Be Vietnam');
 body {
     width: 100%;
     margin: 0px;
     background: linear-gradient(to left bottom, #dcdfe5, #cedeee, #b9def4, #9ee0f5, #81e1f0);
 }
 nav ul, footer ul {
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,12 +23,12 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
 }
 
 h1.test {
     font-size: 3em;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
     margin-top: 0px;
 }
 p {
@@ -37,7 +38,7 @@ p {
 }
 p.test{
     color: #003366;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
     font-size: 16px;
     line-height: 26px;
     margin: 0;
@@ -45,7 +46,7 @@ p.test{
 
 p.test1
 {
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
     font-size: 15px;
     line-height: normal;
     margin-bottom: 0px;
