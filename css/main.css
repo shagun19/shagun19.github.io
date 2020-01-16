@@ -91,7 +91,7 @@ ul.posts li {
 }
 .hovereffect {
   float: left;
-  width: 23%;
+  width: 22%;
   padding: 0px;
   overflow: hidden;
   position: relative;
@@ -103,7 +103,7 @@ ul.posts li {
 
 .column2 {
   float: right;
-  width: 72%;
+  width: 73%;
   padding: 5px;
 }
 
