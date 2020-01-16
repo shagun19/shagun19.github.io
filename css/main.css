@@ -176,17 +176,13 @@ ul.posts li {
   cursor: pointer;
 }
 a.job {
-  background:
-     linear-gradient(
-       to bottom, var(--mainColor) 0%,
-       var(--mainColor) 100%
-     );
-	background-position: 0 100%;
+    background: linear-gradient( to bottom, #7165B4 50%, #5E47DF 100%);
+    background-position: 0 100%;
 	background-repeat: repeat-x;
 	background-size: 4px 4px;
-  color: #000;
-  text-decoration: none;
-  transition: background-size .2s;
+    color: #000;
+    text-decoration: none;
+    transition: background-size .2s;
 }
 
 a.job:hover {
