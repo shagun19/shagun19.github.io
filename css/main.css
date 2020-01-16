@@ -3,6 +3,7 @@ body {
     width: 100%;
     margin: 0px;
     background: linear-gradient(to left bottom, #dcdfe5, #cedeee, #b9def4, #9ee0f5, #81e1f0);
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
     list-style-type: none;
@@ -23,9 +24,6 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
-}
-h2,h3 {
     font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
 }
 
