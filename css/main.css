@@ -25,6 +25,9 @@ h1 {
     font-size: 3em;
     font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
 }
+h2,h3 {
+    font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
+}
 
 h1.test {
     font-size: 3em;
@@ -171,6 +174,23 @@ ul.posts li {
   background-color: rgba(	83, 173, 203, 1);
   color: #fff;
   cursor: pointer;
+}
+a.job {
+  background:
+     linear-gradient(
+       to bottom, var(--mainColor) 0%,
+       var(--mainColor) 100%
+     );
+	background-position: 0 100%;
+	background-repeat: repeat-x;
+	background-size: 4px 4px;
+  color: #000;
+  text-decoration: none;
+  transition: background-size .2s;
+}
+
+a.job:hover {
+  background-size: 4px 50px;
 }
 
 
