@@ -178,7 +178,7 @@ ul.posts li {
 
 a.job {
     background: linear-gradient( to bottom, #7165B4 50%, #5E47DF 100%);
-    background-position: 1 100%;
+    background-position: 0 100%;
 	background-repeat: repeat-x;
 	background-size: 4px 4px;
     color: #000;
