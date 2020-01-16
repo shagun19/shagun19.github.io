@@ -1,4 +1,4 @@
-body {
+div container {
     margin: 60px auto;
     width: 80%;
     background: linear-gradient(to left bottom, #dcdfe5, #cedeee, #b9def4, #9ee0f5, #81e1f0);
