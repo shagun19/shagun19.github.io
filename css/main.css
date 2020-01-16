@@ -25,12 +25,14 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
+    font-weight: bold;
 }
 
 h1.test {
     font-size: 3em;
     font-family:'Be Vietnam', 'Arial', 'Sans-Serif';
     margin-top: 0px;
+    font-weight: bold;
 }
 p {
     font-size: 1.0em;
