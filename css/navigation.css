@@ -1,6 +1,6 @@
 .container1 {
   margin: 0 auto;
-  max-width: 1000px;
+  width: 100%;
 }
 .navigation {
   width: 100%;
@@ -26,6 +26,7 @@
   border-radius: 20px;
   -webkit-transition: all .8s; /* Safari prior 6.1 */
   transition: all .8s;
+  width: 25%
 }
 
 .navigation-links li.active {
