@@ -17,9 +17,9 @@
 .fx3 .item img {padding: 0 !important; display: block; max-width: 100%; height: auto; outline: transparent solid 2px; outline-offset: 0px;}
 .fx3 a:hover .item img, .fx3 a:focus .item img {opacity: 0.8; outline: #fff solid 2px; outline-offset: -10px;}
 .fx3 h4, .fx3 p {-webkit-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease;  transition: all .5s ease;}
-.fx3 a .item h4 {font-family: 'Raleway', sans-serif; font-size: 16px; position: absolute; color:#fff; text-transform: uppercase; letter-spacing: 2px; position: absolute; top:42%; left:0; right:0; margin:0 auto; text-align: center; opacity: 0;}
+.fx3 a .item h4 {font-family: 'Raleway', sans-serif; font-size: 16px; position: absolute; color:#fff; text-transform: uppercase; letter-spacing: 2px; position: absolute; top:62%; left:0; right:0; margin:0 auto; text-align: center; opacity: 0;}
 .fx3 a:hover .item h4, .fx3 a:focus .item h4 {opacity: 1;}
-.fx3 a .item p {font-family: 'Raleway', sans-serif; font-size: 8px; position: absolute; color:#fff; text-transform: uppercase; letter-spacing: 2px; position: absolute; top:52%; left:0; right:0; margin:0 auto; text-align: center; opacity: 0;}
+.fx3 a .item p {font-family: 'Raleway', sans-serif; font-size: 8px; position: absolute; color:#fff; text-transform: uppercase; letter-spacing: 2px; position: absolute; top:72%; left:0; right:0; margin:0 auto; text-align: center; opacity: 0;}
 .fx3 a:hover .item p, .fx3 a:focus .item p {opacity: 1;}
 
 
