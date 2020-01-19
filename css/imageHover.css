@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Rozha+One');
 
 .col4 {width: 30.33333333%; float: left; position: relative;}
-.col5 { display:block; width: 68.6%; float: left;  overflow:hidden; position: relative; padding: 0px;}
+.col5 { display:block; width: 68.6%; float: left;  overflow:hidden; position: relative; padding: 5px;}
 .transition {-webkit-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease;  transition: all .5s ease;}
 .fx3 .item {margin: 10px 0;}
 .fx3:after {
