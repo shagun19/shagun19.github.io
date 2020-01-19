@@ -20,12 +20,12 @@ body .container {width: 70%; margin: 0 auto;}
 .fx3 a:hover .item p, .fx3 a:focus .item p {opacity: 1;}
 
 @media screen and (max-width: 991px) {
-.col4 {width: 59%;}
+.col4 {width: 70%;}
 .fx5 a .item h4 {font-size: 13px;}
 }
 
 @media screen and (max-width: 580px) {
-.col4 {width: 100%;}
-} 
+.col4 {width: 70%;}
+}
 
 
