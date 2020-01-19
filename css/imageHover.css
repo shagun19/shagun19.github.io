@@ -4,7 +4,8 @@
 .col4 {width: 33.33333333%; float: left; position: relative;}
 .col5 { display:block; width: 65.6%; float: left;  overflow:hidden; position: relative}
 .transition {-webkit-transition: all .5s ease; -moz-transition: all .5s ease; -o-transition: all .5s ease;  transition: all .5s ease;}
-.fx3 .item {margin: 10px 0;}
+body .container {width: 70%; margin: 0 auto;}
+.fx1 .item, .fx2 .item, .fx3 .item, .fx4 .item, .fx5 .item {margin: 10px 0;}
 
 /* active on focus for accessibility tab navigation */
 
@@ -20,4 +21,11 @@
 
 
 
+@media screen and (max-width: 991px) {
+.col4 {width: 59%;}
+.fx5 a .item h4 {font-size: 13px;}
+}
 
+@media screen and (max-width: 580px) {
+.col4 {width: 100%;}
+}
