@@ -19,5 +19,13 @@ body .container {width: 70%; margin: 0 auto;}
 .fx3 a .item p {font-family: 'Raleway', sans-serif; font-size: 8px; position: absolute; color:#fff; text-transform: uppercase; letter-spacing: 2px; position: absolute; top:52%; left:0; right:0; margin:0 auto; text-align: center; opacity: 0;}
 .fx3 a:hover .item p, .fx3 a:focus .item p {opacity: 1;}
 
+@media screen and (max-width: 991px) {
+.col4 {width: 59%;}
+.fx5 a .item h4 {font-size: 13px;}
+}
+
+@media screen and (max-width: 580px) {
+.col4 {width: 100%;}
+} 
 
 
