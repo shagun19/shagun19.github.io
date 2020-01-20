@@ -7,7 +7,6 @@ button.btn {
   color: #11114E;
   cursor: pointer;
   display: flex;
-  align-self: left;
   font-size: 16px;
   font-weight: 400;
   line-height: 1;
