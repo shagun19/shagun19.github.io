@@ -16,7 +16,6 @@ button.btn {
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
   transition: box-shadow 150ms ease-in-out, color 100ms ease-in-out;
-
 }
 button.btn:hover, button.btn:focus {
   color: #fff;
